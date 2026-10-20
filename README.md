@@ -4,7 +4,7 @@ A high-power synchronous boost converter designed for the MARS Rover onboard com
 
 ## Project Overview
 
-This project covers the complete hardware development lifecycle of a high-power DC-DC boost converter, from circuit design and PCB layout through hardware bring-up, electrical measurements, and validation.
+This project covers the complete hardware development lifecycle of a high-power DC-DC boost converter, from circuit design and PCB layout through hardware bring-up, DRC, and validation.
 
 The converter was designed to provide a stable 21V supply for onboard computing systems while maintaining reliable high-current power delivery and minimizing noise coupling between power and feedback circuitry.
 
